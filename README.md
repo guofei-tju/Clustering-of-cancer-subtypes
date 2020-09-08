@@ -26,7 +26,7 @@ The following packages are required for executing the main code file:
 
 ### Run
 
-The program run on the dataset (LUNG) while printing logs: 
+The program runs on the dataset (LUNG) while prints logs: 
 
 ```python
     [cluster: 2, P - value: 0.92260736]
